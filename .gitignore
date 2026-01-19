@@ -1,0 +1,47 @@
+# =========================
+# Build output
+# =========================
+/x64/
+/proiect_final/x64/
+/Debug/
+/Release/
+/bin/
+/out/
+
+# =========================
+# Executables & binaries
+# =========================
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.sln
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# =========================
+# CMake / build systems
+# =========================
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# =========================
+# OS junk
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Editors
+# =========================
+.vscode/
+.idea/
